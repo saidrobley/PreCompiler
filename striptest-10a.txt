@@ -1,0 +1,11 @@
+This file has a mixture of true blank space
+
+and whitespace created by hitting tab several times
+
+the line    has a mixture of spaces         and words
+the next two is commented out
+/* starting from here
+ending here */
+// this whole line commented out.
+the comment on this //line starts middle
+only one word of this line is /*commented*/ out
